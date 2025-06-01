@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+requests
+geopy
+scikit-learn
+tensorflow
+joblib
