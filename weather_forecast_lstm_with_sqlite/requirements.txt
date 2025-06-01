@@ -5,5 +5,5 @@ matplotlib
 requests
 geopy
 scikit-learn
-tensorflow
+tensorflow-cpu==2.12.0
 joblib
